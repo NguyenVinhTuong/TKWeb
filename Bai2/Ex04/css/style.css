@@ -1,0 +1,122 @@
+body{
+  padding: 0;
+  margin: 0;
+}
+
+/* Global */
+.container {
+}
+
+ul {
+  list-style: none;
+  margin-left: -40px;
+}
+
+/* Header **/
+header {
+  width: 100%;
+  background-color: rgb(40, 133, 86);
+  display: inline-block;
+  border-bottom: 3px aquamarine solid;
+  height: 100px;
+}
+
+header a {
+  text-decoration: none;
+  font-size: 26px;
+}
+
+header li {
+  display: inline-block;
+  margin: 0 12px;
+}
+
+header #branding {
+}
+
+header #branding h1 {
+}
+
+header nav {
+  float: right;
+  margin-top: -40px;
+}
+
+header .highlight,
+header .current a {
+  color: rgb(10, 10, 9);
+}
+
+header a:hover {
+  color: cyan;
+}
+
+footer {
+  background-color: rgb(31, 23, 5);
+  width: 100%;
+  height: 100px;
+  line-height: 100px;
+  text-align: center;
+  color: rgb(139, 153, 153);
+}
+
+#newsletter form input[type="email"],
+.quote input,
+.quote textarea {
+  width: 100%;
+  margin: 8px 0;
+  
+}
+
+
+/* Header **/
+header{
+  
+
+}
+
+header a{
+  
+
+}
+
+header li{
+ 
+
+}
+
+header #branding{
+  
+
+}
+
+header #branding h1{
+  
+
+}
+
+header nav{
+ 
+
+}
+
+header .highlight, header .current a{
+  
+
+}
+
+header a:hover{
+  
+
+}
+
+
+footer{
+  
+
+}
+
+#newsletter form input[type="email"], .quote input, .quote textarea{
+    
+  }
+
